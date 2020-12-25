@@ -1,6 +1,7 @@
 #include <iostream>
 
-using namespace std;
+
+using namespace std; 
 
 void reverse(int n, int a[]){
     for (int i = 0; i <= n - 1; i++){
